@@ -1,5 +1,10 @@
 # qualifying_offer
+
 Python project to determine the monetary value of a qualifying offer, given a table of salary data
+
+## Specs
+
+qualifying_offer.py can be run on Python >=3.6 (use of f-strings that were released in Python 3.6)
 
 ## How to Run
 
